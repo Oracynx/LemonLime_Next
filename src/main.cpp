@@ -99,6 +99,6 @@ int main(int argc, char *argv[]) {
 	} else {
 		w.welcome();
 	}
-	
+
 	return app.exec();
 }
